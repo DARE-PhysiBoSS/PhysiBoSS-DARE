@@ -1,0 +1,7 @@
+
+
+Mirar por que el apply dirichlet conditions dura negativo en tiempo en novector!
+ejemplos en /novector/xs/factor_1
+
+Mirar lo del buffer de extrae.xml
+Activar hardware counterssqueue
